@@ -1,0 +1,30 @@
+{
+  "name": "lorraines_a_taste_of_the_south",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankSmith22/lorraines-mockup.git"
+  },
+  "author": "Frank Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankSmith22/lorraines-mockup/issues"
+  },
+  "homepage": "https://github.com/FrankSmith22/lorraines-mockup#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
