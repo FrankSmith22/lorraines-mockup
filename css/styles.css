@@ -1,3 +1,32 @@
 .bg-darkGreen{
     background-color: #0F2F09;
 }
+
+.text-darkGreen{
+    color: #0F2F09;
+}
+
+.btn-pink{
+    color: black;
+    background-color: #ff9999;
+    border-color: #ff9999;
+}
+
+.btn-pink:hover{
+    color: black;
+    background-color: #ff7272;
+    border-color: #ff7272;
+}
+
+#menuBody{
+    background-image: url("/assets/imgs/food_background_opaque.png");
+    background-repeat: repeat;
+}
+
+#menuBody .card{
+    transition: ease-in;
+    transition-duration: 0.5s;
+    transition-property: all;
+    opacity: 0;
+    margin-top: 40px;
+}
